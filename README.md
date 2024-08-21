@@ -17,9 +17,9 @@ Google Drive - https://drive.google.com/file/d/1vq_Dx6TN0g60d3JQNxF5kNaQEqmyGnqE
 
 ### Application Screenshots
 
-![page1](https://github.com/nkouki98/testreadme/blob/main/page1.png)
-![userinput](https://github.com/nkouki98/testreadme/blob/main/userdetails.png)
-![accdetails](https://github.com/nkouki98/testreadme/blob/main/accdetails.png)
+![page1](https://github.com/nkouki98/MinibankApplication/blob/master/accdetails.png)
+![userinput](https://github.com/nkouki98/MinibankApplication/blob/main/userdetails.png)
+![accdetails](https://github.com/nkouki98/MinibankApplication/blob/main/accdetails.png)
 
 ### Technologies Used
 
