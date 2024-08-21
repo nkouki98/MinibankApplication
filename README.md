@@ -92,7 +92,7 @@ webapi
 ```
 
 ### API Documentation 
-1.**http://localhost:5197/swagger for API details and Swagger UI API** 
+1. **http://localhost:5197/swagger for API details and Swagger UI API** 
 
 2. **All Endpoints:**
 ```bash
