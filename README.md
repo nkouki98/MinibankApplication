@@ -92,8 +92,9 @@ webapi
 ```
 
 ### API Documentation 
-1.http://localhost:5197/swagger for API details and Swagger UI API 
-2. All Endpoints:
+1.**http://localhost:5197/swagger for API details and Swagger UI API** 
+
+2. **All Endpoints:**
 ```bash
 GET /api/Account/{id}
 POST /api/Account/Create
