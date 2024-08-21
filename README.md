@@ -73,7 +73,7 @@ Google Drive - https://drive.google.com/file/d/1vq_Dx6TN0g60d3JQNxF5kNaQEqmyGnqE
 
 ### Project Structure Overview
 ```bash
-reactfrontend
+reactfrontend/my-mini-bank-frontend
 └── src
     ├── Hooks              
     ├── api               
